@@ -15,6 +15,7 @@
 
 .head-contact {
   padding: 10px;
+
 }
 
 .clearfix:before,
@@ -31,4 +32,15 @@
 
 .bio {
   padding-top: 30px;
+}
+
+.social {
+}
+
+.github {
+  margin-left: 90px;
+}
+
+.twitter {
+  margin-left: 30px;
 }
