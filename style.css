@@ -98,10 +98,10 @@ aside {
     width: 390px;
 }
 blockquote {
-    border-left:.5em solid #40AA53;
+    border-left:.5em solid #e88e41;
     padding: 0 2em;
     margin-left:0;
-    max-width: 476px;
+    max-width: 640px;
 }
 blockquote  cite {
     font-size:14px;
@@ -114,7 +114,7 @@ blockquote cite:before {
 
 blockquote p {
     color: #666;
-    max-width: 460px;
+    max-width: 620px;
 }
 hr {
     height: 1px;
